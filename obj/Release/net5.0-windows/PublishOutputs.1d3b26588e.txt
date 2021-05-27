@@ -1,0 +1,5 @@
+D:\Published Apps\FileHashChecker\FileHashChecker.exe
+D:\Published Apps\FileHashChecker\FileHashChecker.dll
+D:\Published Apps\FileHashChecker\FileHashChecker.deps.json
+D:\Published Apps\FileHashChecker\FileHashChecker.runtimeconfig.json
+D:\Published Apps\FileHashChecker\FileHashChecker.pdb
